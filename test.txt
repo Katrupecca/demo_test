@@ -1,0 +1,72 @@
+Last login: Thu Oct 15 14:33:55 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Pro-Katya:~ katyasl$ cd Downloads
+MacBook-Pro-Katya:Downloads katyasl$ cd
+MacBook-Pro-Katya:~ katyasl$ cd Downloads
+MacBook-Pro-Katya:Downloads katyasl$ git clone git@github.com:Katrupecca/demo_test.git
+Cloning into 'demo_test'...
+Warning: Permanently added the RSA host key for IP address '140.82.121.4' to the list of known hosts.
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+MacBook-Pro-Katya:Downloads katyasl$ cd demo
+-bash: cd: demo: No such file or directory
+MacBook-Pro-Katya:Downloads katyasl$ ls
+161177.epub
+Akunin_Priklyucheniya-Erasta-Fandorina_1_Azazel.416335.fb2.epub
+Civilization VI Platinum Edition [P] [RUS + ENG RUS + ENG] (2016) (1.3.2 + 11 DLC) [rutracker-5753894].torrent
+Civilization.VI.v1.3.2.Incl.DLC.MacOSX.dmg
+GitHub Desktop.app
+GitHubDesktop.zip
+Glik_Haos-Sozdanie-novoy-nauki.230456.fb2.epub
+Hollis_Dushevnye-omuty.405259.fb2.epub
+Lemon Ads_Slyva.pdf
+PPPronina_Glad_lyubi_hvali_neskuchnoe_rukovodstvo_po_vospitaniyu.epub
+SSapolski_Kto-my-takie-Geny-nashe-telo-obshchestvo.526276.fb2.epub
+Sapolski_Biologiya-dobra-i-zla-Kak-nauka-obyasnyaet-nashi-postupki.534294.fb2.epub
+Serbice agreement Lemon Ads_Slyva.pdf
+chornyj-lebid-pro-ne-jmovirne-u-realnomu-zhytti.epub
+demo_test
+faktologiya-10-hybnyh-uyavlen-pro-svit-i-chomu-vse-nabagato-krasche-nizh-my-dumaemo.epub
+frikonomika-zvorotnyj-bik-usogo-na-sviti.epub
+multilogin-4.5.3-osx_x86_64.dmg
+multilogin-5.1.1-62-osx_x86_64.dmg
+multilogin-5.2.0-36-osx_x86_64.dmg
+multilogin-5.4.0-57-osx_x86_64.dmg
+multilogin-5.5.2-4-osx_x86_64.dmg
+multilogin-5.7.1-106-osx_x86_64.dmg
+myslennya-shvydke-j-povilne.epub
+MacBook-Pro-Katya:Downloads katyasl$ cd demo_test
+MacBook-Pro-Katya:demo_test katyasl$ cat README.md
+# demo_testMacBook-Pro-Katya:demo_test katyasl$ open README.md
+No application knows how to open /Users/katyasl/Downloads/demo_test/README.md.
+MacBook-Pro-Katya:demo_test katyasl$ vi test.txt
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"test.txt" [New File]
